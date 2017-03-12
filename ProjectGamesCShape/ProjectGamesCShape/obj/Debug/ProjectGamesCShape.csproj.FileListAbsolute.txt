@@ -1,0 +1,6 @@
+D:\ProjectGamesCShape\ProjectGamesCShape\bin\Debug\ProjectGamesCShape.exe.config
+D:\ProjectGamesCShape\ProjectGamesCShape\bin\Debug\ProjectGamesCShape.exe
+D:\ProjectGamesCShape\ProjectGamesCShape\bin\Debug\ProjectGamesCShape.pdb
+D:\ProjectGamesCShape\ProjectGamesCShape\obj\Debug\ProjectGamesCShape.csprojResolveAssemblyReference.cache
+D:\ProjectGamesCShape\ProjectGamesCShape\obj\Debug\ProjectGamesCShape.exe
+D:\ProjectGamesCShape\ProjectGamesCShape\obj\Debug\ProjectGamesCShape.pdb
