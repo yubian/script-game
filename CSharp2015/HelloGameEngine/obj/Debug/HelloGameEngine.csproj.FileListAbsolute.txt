@@ -1,0 +1,42 @@
+D:\13570330\HelloGameEngine\HelloGameEngine\bin\Debug\HelloGameEngine.exe.config
+D:\13570330\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.csprojResolveAssemblyReference.cache
+D:\13570330\HelloGameEngine\HelloGameEngine\bin\Debug\HelloGameEngine.exe
+D:\13570330\HelloGameEngine\HelloGameEngine\bin\Debug\HelloGameEngine.pdb
+D:\13570330\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.exe
+D:\13570330\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.pdb
+C:\Users\Bora\Desktop\HelloGameEngine\HelloGameEngine\bin\Debug\HelloGameEngine.exe.config
+C:\Users\Bora\Desktop\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.exe
+C:\Users\Bora\Desktop\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.pdb
+C:\Users\Bora\Desktop\HelloGameEngine\HelloGameEngine\bin\Debug\HelloGameEngine.exe
+C:\Users\Bora\Desktop\HelloGameEngine\HelloGameEngine\bin\Debug\HelloGameEngine.pdb
+C:\Users\Bora\Desktop\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.csprojResolveAssemblyReference.cache
+C:\Users\Bora\Desktop\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.SceneManager.resources
+C:\Users\Bora\Desktop\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.csproj.GenerateResource.Cache
+C:\Users\Bora\Desktop\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.Properties.Resources.resources
+E:\HelloGameEngine\HelloGameEngine\bin\Debug\HelloGameEngine.exe.config
+E:\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.exe
+E:\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.pdb
+E:\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.csprojResolveAssemblyReference.cache
+E:\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.Properties.Resources.resources
+E:\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.SceneManager.resources
+E:\HelloGameEngine\HelloGameEngine\obj\Debug\HelloGameEngine.csproj.GenerateResource.Cache
+E:\HelloGameEngine\HelloGameEngine\bin\Debug\HelloGameEngine.exe
+E:\HelloGameEngine\HelloGameEngine\bin\Debug\HelloGameEngine.pdb
+E:\HelloGameEngine - Copy (2)\HelloGameEngine\bin\Debug\HelloGameEngine.exe.config
+E:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.exe
+E:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.pdb
+E:\HelloGameEngine - Copy (2)\HelloGameEngine\bin\Debug\HelloGameEngine.exe
+E:\HelloGameEngine - Copy (2)\HelloGameEngine\bin\Debug\HelloGameEngine.pdb
+E:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.csprojResolveAssemblyReference.cache
+E:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.Properties.Resources.resources
+E:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.SceneManager.resources
+E:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.csproj.GenerateResource.Cache
+D:\HelloGameEngine - Copy (2)\HelloGameEngine\bin\Debug\HelloGameEngine.exe.config
+D:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.exe
+D:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.pdb
+D:\HelloGameEngine - Copy (2)\HelloGameEngine\bin\Debug\HelloGameEngine.exe
+D:\HelloGameEngine - Copy (2)\HelloGameEngine\bin\Debug\HelloGameEngine.pdb
+D:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.csprojResolveAssemblyReference.cache
+D:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.Properties.Resources.resources
+D:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.SceneManager.resources
+D:\HelloGameEngine - Copy (2)\HelloGameEngine\obj\Debug\HelloGameEngine.csproj.GenerateResource.Cache
